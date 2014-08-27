@@ -170,6 +170,7 @@ $LANG = array (
     'admin_email_auth_username' => 'Имя пользователя',
     'admin_email_auth_pwd' => 'Пароль',
     'admin_email_port' => 'Порт сервера',
+    'admin_email_security' => 'Безопасность',
     'admin_email_from' => 'Адрес отправителя (поле From Email)',
     'admin_email_from_name' => 'Имя отправителя (поле from Name)',
     'admin_email_test_configuration' => 'Проверить настроки отправки',

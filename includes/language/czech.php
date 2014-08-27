@@ -170,6 +170,7 @@ $LANG = array (
     'admin_email_auth_username' => 'Uživatelské jméno pro přihlášení',
     'admin_email_auth_pwd' => 'Heslo pro přihlášení',
     'admin_email_port' => 'Port serveru',
+    'admin_email_security' => 'Bezpečnost',
     'admin_email_from' => 'Emailová adresa odesílatele',
     'admin_email_from_name' => 'Jméno odesílatele',
     'admin_email_test_configuration' => 'Vyzkoušet nastavení emailu',

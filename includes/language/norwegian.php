@@ -170,6 +170,7 @@ $LANG = array (
     'admin_email_auth_username' => 'Autentiseringsbrukernavn',
     'admin_email_auth_pwd' => 'Autentiseringspassord',
     'admin_email_port' => 'Server port',
+    'admin_email_security' => 'Security',
     'admin_email_from' => 'Sender Email (from Email)',
     'admin_email_from_name' => 'Sender Name (from Name)',
     'admin_email_test_configuration' => 'Test the Email configuration',

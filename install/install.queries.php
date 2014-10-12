@@ -288,6 +288,7 @@ if (isset($_POST['type'])) {
                                 ('admin', 'email_auth_username', '".$var['smtp_auth_username']."'),
                                 ('admin', 'email_auth_pwd', '".$var['smtp_auth_password']."'),
                                 ('admin', 'email_port', '".$var['smtp_port']."'),
+                                ('admin', 'email_security', '".$var['smtp_security']."'),
                                 ('admin', 'email_server_url', '".$var['url_path']."'),
                                 ('admin', 'email_from', '".$var['email_from']."'),
                                 ('admin', 'email_from_name', '".$var['email_from_name']."'),
